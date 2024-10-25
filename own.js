@@ -14,7 +14,7 @@ var rulesDead = {
     1: false,
     2: false,
     3: true,
-    4: false,
+    4: true,
     5: false,
     6: false,
     7: false,
