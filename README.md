@@ -1,11 +1,11 @@
 <h1>YOUR Game of Life</h1>
 <h2>What is this?</h2>
 THis program is inspirated by Conway's Game of Life.
-It's a small javascript program, that can run numerous two-position cellural automatas.<br>
+It's a small javascript program, that can run numerous type of two-position cellural automatas.<br>
 You can create own rulesets for this.
 <p></p>
 <h2>How to use?</h2>
-To run Conway's GAme of life: <br>
+To run Conway's Game of life: <br>
 1. Download or clone this.<br>
 2. Unzip and open the folder, click to the index.html<br>
 
