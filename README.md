@@ -1,6 +1,6 @@
 <h1>YOUR Game of Life</h1>
 <h2>What is this?</h2>
-THis program is inspirated by Conway's Game of Life.
+This program is inspirated by Conway's Game of Life.
 It's a small javascript program, that can run numerous type of two-position cellural automatas.<br>
 You can create own rulesets for this.
 <p></p>
