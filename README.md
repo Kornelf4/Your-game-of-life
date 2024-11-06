@@ -18,3 +18,4 @@ To create YOUR Game of Life with own rules:<br>
   An object with the rules applied on the live cells, what happens with the live cell dependent on the number of live neighbors. Name it "rulesLive". You must have rules for all the possible neighbor numbers<br>
 6. The ruleset is complete. Link the file into index.html, change the file name from convay.js to your ruleset's name.<br>
 7. It should work.<br>
+<img src="https://t.bkit.co/w_66fd4ca0edf0a.gif" />
